@@ -1,0 +1,13 @@
+# ── BẢO MẬT: KHÔNG ĐĂNG TẢI CÁC FILE NÀY LÊN GITHUB ──
+backend/.env
+backend/dulieubenhnhan/
+backend/node_modules/
+node_modules/
+
+# Các file tạm
+*.log
+out.txt
+test_*.js
+test_*.png
+test_*.txt
+search*.js
